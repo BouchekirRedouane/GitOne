@@ -15,6 +15,8 @@ public class GetOne {
      */
     public static void main(String[] args) {
         System.out.println("FIRST CHANGE");
+        
+        System.out.println("SECOND CHANGES");
     }
     
 }
